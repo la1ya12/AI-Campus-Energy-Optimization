@@ -1,0 +1,14 @@
+Building,Month,Units_Consumed
+Hostel_A,Jan,4200
+Hostel_A,Feb,4600
+Hostel_A,Mar,5100
+Library,Jan,2100
+Library,Feb,2600
+Library,Mar,2800
+Lab_Block,Jan,5200
+Lab_Block,Feb,6100
+Lab_Block,Mar,6800
+Admin_Block,Jan,1800
+Admin_Block,Feb,2000
+Admin_Block,Mar,2300
+
