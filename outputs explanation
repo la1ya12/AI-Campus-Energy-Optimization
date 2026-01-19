@@ -1,0 +1,84 @@
+# Screenshots and Execution Output Explanation
+
+This document explains the screenshots generated during the execution of the
+**AI-Based Campus Energy Consumption Insight & Optimization Assistant** project.
+These outputs demonstrate how AI-based analysis is applied to identify energy
+usage patterns, rank buildings, detect anomalies, and generate insights for
+sustainable energy management.
+
+## 1. Raw Energy Data
+
+**Screenshot File:** `raw energy data.png`
+
+This screenshot shows the raw electricity consumption dataset used in the project.
+It contains:
+- Building name
+- Month
+- Units of electricity consumed
+
+This data serves as the input for AI-based analysis and represents real-world
+campus energy usage scenarios.
+
+
+## 2. Average Energy Consumption by Building
+
+**Screenshot File:** `average energy consumption by building.png`
+
+This bar graph visualizes the **average electricity consumption** for each campus
+building.
+- Taller bars indicate higher energy usage.
+- Lab_Block shows the highest energy consumption.
+- Hostel_A follows next, while Library and Admin_Block have lower usage.
+
+This visualization helps decision-makers quickly identify buildings that require
+energy optimization efforts.
+
+
+## 3. Building Energy Ranking
+
+**Screenshot File:** `building energy ranking.png`
+
+This output ranks campus buildings from **highest to lowest** based on average
+electricity consumption:
+1. Lab_Block
+2. Hostel_A
+3. Library
+4. Admin_Block
+
+The ranking helps prioritize buildings for energy audits and efficiency improvements.
+
+
+## 4. Predicted Next Month Energy Usage
+
+**Screenshot File:** `ai energy insights.png`
+
+This screenshot includes AI-generated insights along with estimated future energy
+usage.
+The system uses historical data trends to provide an approximate prediction for
+next month’s electricity consumption, supporting proactive planning.
+
+
+## 5. AI Energy Insights and Recommendations
+
+**Screenshot File:** `ai energy insights.png`
+
+This output demonstrates the core AI functionality of the project.
+Based on detected patterns and anomalies, the system automatically generates:
+- High energy usage alerts
+- Unusual spike detection messages
+- Usage within acceptable limits confirmations
+
+These recommendations are generated without manual intervention, making the
+system a decision-support AI solution.
+
+## Summary
+
+The screenshots collectively demonstrate:
+- AI-based pattern detection
+- Building-wise energy ranking
+- Anomaly detection
+- Predictive trend analysis
+- Explainable sustainability insights
+
+This project supports **SDG 7 – Affordable and Clean Energy** by enabling data-driven
+decisions to reduce energy wastage and promote sustainable campus operations.
